@@ -1,25 +1,50 @@
-# Research overview
+# Research overview: Why market timing might matter for leverage
 
-## Research question
+## 1. The financing pattern that motivates the paper
 
-**Do equity-market timing decisions have lasting effects on firms' capital structures, or do firms eventually rebalance toward target leverage?**
+The presentation begins with a well-documented empirical pattern: firms tend to **issue equity when stock valuations are relatively high** and **repurchase equity when valuations are relatively low**. The group discusses evidence from initial public offerings (IPOs) and seasoned equity offerings (SEOs).
 
-This case study reviews Malcolm Baker and Jeffrey Wurgler's *Market Timing and Capital Structure*, as presented in a group research project for **Corporate Finance & Valuation**.
+This pattern motivates a deeper question. Issuing equity mechanically reduces leverage in the short run, but **does that change last?** If firms subsequently rebalance toward a preferred capital structure, the effect should fade. If they do not, historical financing decisions can have lasting consequences.
 
-## Motivation
+*Presentation: slides 2–5.*
 
-The presentation begins with a recurring financing pattern: firms are more likely to issue equity when market valuations are high and repurchase shares when valuations are low. The question is whether such choices only temporarily affect leverage or instead leave a long-lasting imprint.
+## 2. Core research question
 
-## Where the paper fits
+**Are the effects of market timing on capital structure temporary, or do they persist over long horizons?**
 
-**Trade-off theory** describes firms as balancing debt tax advantages against financial distress costs. **Pecking-order theory** emphasizes financing preferences under information asymmetry: internal funds, then debt, then equity.
+The paper's distinctive argument is that leverage can be **path-dependent**: two otherwise similar firms may have different debt-to-equity mixes because they raised financing under different historical market conditions.
 
-The paper's market-timing perspective instead emphasizes the **cumulative history of financing choices**. Its proposed mechanisms include rational timing when adverse-selection costs are lower and behavioral timing when managers respond to perceived mispricing.
+## 3. How this relates to traditional theories
 
-## Why it matters
+| Perspective | Main intuition | What market timing adds |
+| --- | --- | --- |
+| **Trade-off theory** | Firms balance tax benefits of debt against expected financial-distress costs, potentially adjusting toward target leverage. | Historical issuance conditions may leave effects that do not disappear quickly. |
+| **Pecking-order theory** | With information asymmetry, firms generally prefer internal funds, then debt, then equity. | Equity issuance can also respond to how favorably the market values the firm's shares. |
+| **Market-timing perspective** | Firms issue equity when the relative cost or perceived valuation of equity is attractive. | The cumulative record of these choices may explain today's leverage. |
 
-If historical valuations shape current leverage for years, observed capital structures may be path-dependent rather than solely determined by current fundamentals and an optimal leverage target.
+The presentation frames the paper as a challenge to simple, static versions of target-leverage and financing-hierarchy explanations—not as proof that tax, distress or information-asymmetry considerations never matter.
 
-**Source:** Group presentation, slides 2–7. Theoretical interpretations and empirical conclusions are attributed to Baker and Wurgler, not independently established by this repository.
+*Presentation: slides 4, 6–7.*
 
-[Back to project overview](README.md)
+## 4. Two proposed interpretations of market timing
+
+The group distinguishes two versions of market timing that can produce similar observed financing behavior:
+
+- **Rational timing:** managers issue equity when adverse-selection costs are relatively low.
+- **Behavioral timing:** managers issue equity when they believe the market temporarily overvalues the firm's shares.
+
+Both can predict greater issuance during favorable valuation conditions. Observing issuance at high market-to-book ratios alone does **not** tell us which interpretation is correct.
+
+## 5. Why persistence is the key test
+
+A short-run association between valuations and equity issuance is not sufficient to establish a new explanation of capital structure. The important contribution is examining whether **past market-to-book conditions remain associated with leverage years later**, after considering current firm characteristics.
+
+The paper therefore moves from financing decisions at a point in time to the **history of financing decisions since IPO**.
+
+## 6. Practical relevance
+
+For corporate-finance and valuation work, the argument suggests that an analyst should not assess leverage using only current profitability, size and asset composition. Past equity issuance, prior market valuations and financing opportunities may help explain why the firm's capital structure looks the way it does.
+
+**Source note:** This overview follows the uploaded group presentation, especially slides 2–7. No additional empirical findings are asserted.
+
+[Return to README](README.md)
