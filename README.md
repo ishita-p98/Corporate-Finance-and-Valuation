@@ -38,7 +38,8 @@ flowchart LR
 2. **[Data, variables and empirical design](methodology.md)** — Compustat and IPO samples, leverage definitions, the external-finance-weighted market-to-book measure, regression specifications and financing-channel decomposition.
 3. **[Findings and persistence evidence](empirical-findings.md)** — short-run issuance, historical valuations, long-run leverage, cumulative changes and robustness checks.
 4. **[Critical evaluation and extensions](critical-discussion.md)** — how to interpret the evidence, alternative explanations, and applications to contemporary financing markets.
-5. **[Sources and acknowledgements](references.md)** — paper attribution, slide-to-section mapping and group credit.
+5. **[Conclusions and classical finance theory](theoretical-implications-and-conclusions.md)** — what the findings mean for Modigliani–Miller, trade-off and pecking-order theory, and where the evidence stops short.
+6. **[Sources and acknowledgements](references.md)** — paper attribution, slide-to-section mapping and group credit.
 
 ## Three findings worth remembering
 
